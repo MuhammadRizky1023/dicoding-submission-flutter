@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mercedes-Benz A-Class",
+    "location": "Hatchback",
+    "image": "assets/images/Mercedes-Benz A-Class.jpg",
+    "price": "Rp 795,000,000",
+    "description": "Mercedes-Benz A-Class adalah mobil kompak dengan fitur modern dan desain elegan."
+  },
+  {
+    "name": "Mercedes-Benz C-Class",
+    "location": "Sedan",
+    "image": "assets/images/Mercedes-Benz C-Class.jpg",
+    "price": "Rp 935,000,000",
+    "description": "Mercedes-Benz C-Class menawarkan kenyamanan tinggi dan teknologi canggih."
+  },
+  {
+    "name": "Mercedes-Benz E-Class",
+    "location": "Sedan",
+    "image": "assets/images/Mercedes-Benz E-Class.jpg",
+    "price": "Rp 1,515,000,000",
+    "description": "Mercedes-Benz E-Class menawarkan kemewahan dan performa yang luar biasa untuk kelas sedan bisnis."
+  },
+  {
+    "name": "Mercedes-Benz S-Class",
+    "location": "Sedan",
+    "image": "assets/images/Mercedes-Benz S-Class.jpg",
+    "price": "Rp 2,800,000,000",
+    "description": "S-Class adalah flagship Mercedes-Benz dengan teknologi terbaik, kenyamanan maksimal, dan kemewahan premium."
+  },
+  {
+    "name": "Mercedes-Benz G-Class",
+    "location": "SUV",
+    "image": "assets/images/Mercedes-Benz G-Class.jpg",
+    "price": "Rp 5,000,000,000",
+    "description": "G-Class adalah SUV ikonik dengan desain kotak klasik yang terkenal dengan kemampuan off-road yang tangguh."
+  },
+  {
+    "name": "Mercedes-Benz GLE",
+    "location": "SUV",
+    "image": "assets/images/Mercedes-Benz GLE.jpg",
+    "price": "Rp 1,755,000,000",
+    "description": "GLE adalah SUV mewah dengan teknologi modern dan interior yang luas dan nyaman."
+  },
+  {
+    "name": "Mercedes-Benz GLS",
+    "location": "SUV",
+    "image": "assets/images/Mercedes-Benz GLS.jpg",
+    "price": "Rp 2,325,000,000",
+    "description": "GLS menawarkan kemewahan dan ruang yang lebih luas untuk seluruh keluarga, dengan performa yang tidak tertandingi."
+  },
+  {
+    "name": "Mercedes-Benz CLA",
+    "location": "Coupe",
+    "image": "assets/images/Mercedes-Benz CLA.jpg",
+    "price": "Rp 755,000,000",
+    "description": "Mercedes-Benz CLA hadir dengan desain coupe yang aerodinamis dan elegan, cocok untuk para pengemudi muda."
+  },
+  {
+    "name": "Mercedes-Benz GLC",
+    "location": "SUV",
+    "image": "assets/images/Mercedes-Benz GLC.jpg",
+    "price": "Rp 1,200,000,000",
+    "description": "GLC adalah SUV kompak dengan kenyamanan dan performa tinggi, ideal untuk penggunaan perkotaan."
+  },
+  {
+    "name": "Mercedes-Benz SL",
+    "location": "Roadster",
+    "image": "assets/images/Mercedes-Benz SL.jpg",
+    "price": "Rp 4,000,000,000",
+    "description": "Mercedes-Benz SL adalah roadster yang menawarkan pengalaman berkendara atap terbuka dengan kemewahan dan performa yang tak tertandingi."
+  }
+]
+
+  
