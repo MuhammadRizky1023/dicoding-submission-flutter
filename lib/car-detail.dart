@@ -114,26 +114,32 @@ class _CarDetailPageState extends State<CarDetailPage> {
               const SizedBox(height: 16.0),
 
               // Gambar tambahan
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceAround,
+               // Accordion (ExpansionTile) untuk gambar tambahan
+              ExpansionTile(
+                title: Text('Gambar Tambahan'),
                 children: [
-                  Image.asset(
-                    "assets/images/Mercedes-Benz article.jpg",
-                    width: 100,
-                    height: 100,
-                    fit: BoxFit.cover,
-                  ),
-                  Image.asset(
-                    "assets/images/Mercedes-Benz article-1.jpg",
-                    width: 100,
-                    height: 100,
-                    fit: BoxFit.cover,
-                  ),
-                  Image.asset(
-                    "assets/images/Mercedes-Benz article-2.jpeg",
-                    width: 100,
-                    height: 100,
-                    fit: BoxFit.cover,
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+                      Image.asset(
+                        "assets/images/Mercedes-Benz article.jpg",
+                        width: 100,
+                        height: 100,
+                        fit: BoxFit.cover,
+                      ),
+                      Image.asset(
+                        "assets/images/Mercedes-Benz article-1.jpg",
+                        width: 100,
+                        height: 100,
+                        fit: BoxFit.cover,
+                      ),
+                      Image.asset(
+                        "assets/images/Mercedes-Benz article-2.jpeg",
+                        width: 100,
+                        height: 100,
+                        fit: BoxFit.cover,
+                      ),
+                    ],
                   ),
                 ],
               ),
